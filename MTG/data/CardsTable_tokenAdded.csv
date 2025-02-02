@@ -1,0 +1,67 @@
+Card Name,mana cost,card type,power,toughness,card description,Tapped,flying,Hexproof,Menace,Defender,Reach,Trample,Deathtouch,Vigilance,first strike,can't be blocked by creatures with power 2 or less,can't be blocked by more than one creature.,can't be blocked by black creatures.
+Skilled_Animator,2&U,Creature-Human Artificer,1,3,"When Skilled Animator enters, target artifact you control becomes an artifact creature with base power and toughness 5/5 for as long as Skilled Animator remains on the battlefield.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Woodland_Stream,0,Land,0,0,Woodland Stream enters tapped.If tapped: Add G or Add U,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ajani's_Last_Stand,2&W&W,Enchantment,0,0,"Whenever a creature or planeswalker you control dies, you may sacrifice Ajani's Last Stand. If you do, create a 4/4 white Avatar creature token with flying.
+When a spell or ability an opponent controls causes you to discard this card, if you control a Plains, create a 4/4 white Avatar creature token with flying.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Titanic_Growth,1&G,Instant,0,0,Target creature gets +4/+4 until end of turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colossal_Dreadmaw,4&G&G,Creature-Dinosaur,6,6,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),0,0,0,0,0,0,1,0,0,0,0,0,0
+Wall_of_Vines,G,Creature-Plant Wall,0,3,"Defender (This creature can't attack.)
+Reach (This creature can block creatures with flying.)",0,0,0,0,1,1,0,0,0,0,0,0,0
+Supreme_Phantom,1&U,Creature-Spirit,1,3,"Flying
+Other Spirits you control get +1/+1.",0,1,0,0,0,0,0,0,0,0,0,0,0
+Prodigious_Growth,4&G&G,Enchantment-Aur,0,0,Lightning Strike deals 3 damage to any target.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Centaur_Courser,2&G,Creature-Centaur Warrior,3,3,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cavalry_Drillmaster,1&W,Creature-Human Knight,2,1,"When Cavalry Drillmaster enters, target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",0,0,0,0,0,0,0,0,0,1,0,0,0
+Vigilant_Baloth,3&G&G,Creature-Beast,5,5,Vigilance (Attacking doesn't cause this creature to tap.),0,0,0,0,0,0,0,0,1,0,0,0,0
+Rhox_Oracle,4&G,Creature-Rhino Monk,4,2,"When Rhox Oracle enters, draw a card.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghirapur_Guide,2&G,Creature-Elf Scout,3,2,2&G:Target creature you control can't be blocked by creatures with power 2 or less this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hungering_Hydra,X&G,Creature-Hydra,0,0,"Hungering Hydra enters with X +1/+1 counters on it.
+Hungering Hydra can't be blocked by more than one creature.
+Whenever Hungering Hydra is dealt damage, put that many +1/+1 counters on it. (It must survive the damage to get the counters.)",0,0,0,0,0,0,0,0,0,0,0,1,0
+Brawl-Bash_Ogre,2BR,Creature-Ogre Warrior,3,3,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Brawl-Bash Ogre attacks, you may sacrifice another creature. If you do, Brawl-Bash Ogre gets +2/+2 until end of turn.",0,0,0,1,0,0,0,0,0,0,0,0,0
+Aven_Wind_Mage,2&U,Creature-Bird Wizard,2,2,"Flying
+Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 until end of turn.",0,1,0,0,0,0,0,0,0,0,0,0,0
+Essence_Scatter,1&U,Instant,0,0,Counter target creature spell.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vine_Mare,2&G&G,Creature-Elemental Horse,5,3,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Vine Mare can't be blocked by black creatures.",0,0,1,0,0,0,0,0,0,0,0,0,1
+Lich's_Caress,3&B&B,Sorcery,0,0,Destroy target creature. You gain 3 life.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vivien_Reid,3&G&G,Legendary Planeswalker-Vivien,0,5,"+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+?3: Destroy target artifact, enchantment, or creature with flying.
+?8: You get an emblem with ""Creatures you control get +2/+2 and have vigilance, trample, and indestructible.""",0,0,0,0,0,0,0,0,0,0,0,0,0
+Sparktongue_Dragon,3&R&R,Creature-Dragon,3,3,"Flying
+When Sparktongue Dragon enters, you may pay 2&R. When you do, it deals 3 damage to any target.",0,1,0,0,0,0,0,0,0,0,0,0,0
+Rabid_Bite,1&G,Sorcery,0,0,Target creature you control deals damage equal to its power to target creature you don't control.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lightning_Strike,1&R,Instant,0,0,Lightning Strike deals 3 damage to any target.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ravenous_Harpy,2&B,Creature-Harpy,1,2,"Flying
+1, Sacrifice another creature: Put a +1/+1 counter on Ravenous Harpy.",0,1,0,0,0,0,0,0,0,0,0,0,0
+Druid_of_the_Cowl,1&G,Creature-Elf Druid,1,3,Tap: Add G.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Declare_Dominance,3&G&G,Sorcery,0,0,Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plummet,1&G,Instant,0,0,Destroy target creature with flying.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infectious_Horror,3&B,Creature-Zombie Horror,2,2,"Whenever Infectious Horror attacks, each opponent loses 2 life.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Highland_Game,1&G,Creature-Elk,2,1,"When Highland Game dies, you gain 2 life.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Aviation_Pioneer,2&U,Creature-Human Artificer,1,2,"When Aviation Pioneer enters, create a 1/1 colorless Thopter artifact creature token with flying.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Thorn_Lieutenant,1&G,Creature-Elf Warrior,2,3,"Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
+5&G: Thorn Lieutenant gets +4/+4 until end of turn.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Daggerback_Basilisk,2&G,Creature-Basilisk,2,2,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),0,0,0,0,0,0,0,1,0,0,0,0,0
+Skyrider_Patrol,2&G&U,Creature-Elf Scout,2,3,"Flying
+At the beginning of combat on your turn, you may pay G&B. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn.",0,1,0,0,0,0,0,0,0,0,0,0,0
+Electrify,3&R,Instant,0,0,Electrify deals 4 damage to target creature.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shock,R,Instant,0,0,Shock deals 2 damage to any target.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Root_Snare,1&G,Instant,0,0,Prevent all combat damage that would be dealt this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giant_Spider,3&G,Creature-Spider,2,4,Reach (This creature can block creatures with flying.),0,0,0,0,0,1,0,0,0,0,0,0,0
+Satyr_Enchanter,1&G&W,Creature-Satyr Druid,2,2,"Whenever you cast an enchantment spell, draw a card.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Draconic_Disciple,1&R&G,Creature-Human Shaman,2,2,"Tap: Add G or Add W or Add U or Add B or Add R
+7, Tap, Sacrifice Draconic Disciple: Create a 5/5 red Dragon creature token with flying.",0,0,0,0,0,0,0,0,0,0,0,0,0
+Gearsmith_Prodigy,U,Creature-Human Artificer,1,2,Gearsmith Prodigy gets +1/+0 as long as you control an artifact.,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elvish_Rejuvenator,2&G,Creature-Elf Druid,1,1,"When Elvish Rejuvenator enters, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.",0,0,0,0,0,0,0,0,0,0,0,0,0
+white_Avatar,0,Creature-Token,4,4,"Ajani's_Last_Stand's token,flying",0,1,0,0,0,0,0,0,0,0,0,0,0
+colorless_Thopter,0,Creature-Artifactor-Token,1,1,"Aviation_Pioneer's token,flying",0,1,0,0,0,0,0,0,0,0,0,0,0
+green_Elf_Warrior,0,Creature-Token,1,1,Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls,0,0,0,0,0,0,0,0,0,0,0,0,0
+red_Dragon,0,Creature-Token,5,5,Sacrifice Draconic Disciple: Create a 5/5 red Dragon creature token with flying.,0,1,0,0,0,0,0,0,0,0,0,0,0
+Forest,0,Land,0,0,Tap: Add G,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plains,0,Land,0,0,Tap: Add W,0,0,0,0,0,0,0,0,0,0,0,0,0
+Island,0,Land,0,0,Tap: Add U,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swamp,0,Land,0,0,Tap: Add B,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mountain,0,Land,0,0,Tap: Add R,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wastes,0,Land,0,0,Tap: Add 1.,0,0,0,0,0,0,0,0,0,0,0,0,0

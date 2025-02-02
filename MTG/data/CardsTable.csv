@@ -1,0 +1,58 @@
+Card Name,mana cost,card type,power,toughness,card description
+Skilled_Animator,2U,Creature-Human Artificer,1,3,"When Skilled Animator enters, target artifact you control becomes an artifact creature with base power and toughness 5/5 for as long as Skilled Animator remains on the battlefield."
+Woodland_Stream,0,Land,0,0,Woodland Stream enters tapped.If tapped: Add mana G or U
+Ajani's_Last_Stand,2WW,Enchantment,0,0,"Whenever a creature or planeswalker you control dies, you may sacrifice Ajani's Last Stand. If you do, create a 4/4 white Avatar creature token with flying.
+When a spell or ability an opponent controls causes you to discard this card, if you control a Plains, create a 4/4 white Avatar creature token with flying."
+Titanic_Growth,1G,Instant,0,0,Target creature gets +4/+4 until end of turn.
+Colossal_Dreadmaw,4GG,Creature-Dinosaur,6,6,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Wall_of_Vines,G,Creature-Plant Wall,0,3,"Defender (This creature can't attack.)
+Reach (This creature can block creatures with flying.)"
+Supreme_Phantom,1U,Creature-Spirit,1,3,"Flying
+Other Spirits you control get +1/+1."
+Prodigious_Growth,4GG,Enchantment-Aur,0,0,"Enchant creature
+Enchanted creature gets +7/+7 and has trample."
+Centaur_Courser,2G,Creature-Centaur Warrior,3,3,none
+Cavalry_Drillmaster,1W,Creature-Human Knight,2,1,"When Cavalry Drillmaster enters, target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
+Vigilant_Baloth,3GG,Creature-Beast,5,5,Vigilance (Attacking doesn't cause this creature to tap.)
+Rhox_Oracle,4G,Creature-Rhino Monk,4,2,"When Rhox Oracle enters, draw a card."
+Ghirapur_Guide,2G,Creature-Elf Scout,3,2,2G:Target creature you control can't be blocked by creatures with power 2 or less this turn.
+Hungering_Hydra,XG,Creature-Hydra,0,0,"Hungering Hydra enters with X +1/+1 counters on it.
+Hungering Hydra can't be blocked by more than one creature.
+Whenever Hungering Hydra is dealt damage, put that many +1/+1 counters on it. (It must survive the damage to get the counters.)"
+Brawl-Bash_Ogre,2BR,Creature-Ogre Warrior,3,3,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Brawl-Bash Ogre attacks, you may sacrifice another creature. If you do, Brawl-Bash Ogre gets +2/+2 until end of turn."
+Aven_Wind_Mage,2U,Creature-Bird Wizard,2,2,"Flying
+Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 until end of turn."
+Essence_Scatter,1U,Instant,0,0,Counter target creature spell.
+Vine_Mare,2GG,Creature-Elemental Horse,5,3,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Vine Mare can't be blocked by black creatures."
+Lich's_Caress,3BB,Sorcery,0,0,Destroy target creature. You gain 3 life.
+Vivien_Reid,3GG,Legendary Planeswalker-Vivien,0,5,"+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+?3: Destroy target artifact, enchantment, or creature with flying.
+?8: You get an emblem with ""Creatures you control get +2/+2 and have vigilance, trample, and indestructible."""
+Sparktongue_Dragon,3RR,Creature-Dragon,3,3,"Flying
+When Sparktongue Dragon enters, you may pay 2R. When you do, it deals 3 damage to any target."
+Rabid_Bite,1G,Sorcery,0,0,Target creature you control deals damage equal to its power to target creature you don't control.
+Lightning_Strike,1R,Instant,0,0,Lightning Strike deals 3 damage to any target.
+Ravenous_Harpy,2B,Creature-Harpy,1,2,"Flying
+1, Sacrifice another creature: Put a +1/+1 counter on Ravenous Harpy."
+Druid_of_the_Cowl,1G,Creature-Elf Druid,1,3,Tap: Add G.
+Declare_Dominance,3GG,Sorcery,0,0,Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.
+Plummet,1G,Instant,0,0,Destroy target creature with flying.
+Infectious_Horror,3B,Creature-Zombie Horror,2,2,"Whenever Infectious Horror attacks, each opponent loses 2 life."
+Highland_Game,1G,Creature-Elk,2,1,"When Highland Game dies, you gain 2 life."
+Aviation_Pioneer,2U,Creature-Human Artificer,1,2,"When Aviation Pioneer enters, create a 1/1 colorless Thopter artifact creature token with flying."
+Thorn_Lieutenant,1G,Creature-Elf Warrior,2,3,"Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
+5G: Thorn Lieutenant gets +4/+4 until end of turn."
+Daggerback_Basilisk,2G,Creature-Basilisk,2,2,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Skyrider_Patrol,2GU,Creature-Elf Scout,2,3,"Flying
+At the beginning of combat on your turn, you may pay GB. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn."
+Electrify,3R,Instant,0,0,Electrify deals 4 damage to target creature.
+Shock,R,Instant,0,0,Shock deals 2 damage to any target.
+Root_Snare,1G,Instant,0,0,Prevent all combat damage that would be dealt this turn.
+Giant_Spider,3G,Creature-Spider,2,4,Reach (This creature can block creatures with flying.)
+Satyr_Enchanter,1GW,Creature-Satyr Druid,2,2,"Whenever you cast an enchantment spell, draw a card."
+Draconic_Disciple,1RG,Creature-Human Shaman,2,2,"Tap: Add one mana of any color.
+7, Tap, Sacrifice Draconic Disciple: Create a 5/5 red Dragon creature token with flying."
+Gearsmith_Prodigy,U,Creature-Human Artificer,1,2,Gearsmith Prodigy gets +1/+0 as long as you control an artifact.
+Elvish_Rejuvenator,2G,Creature-Elf Druid,1,1,"When Elvish Rejuvenator enters, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order."
