@@ -6,4 +6,4 @@ You need to prepare your own OpenAI API Key.
 
 After configuring the environment, please run Main_Control.py."
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the License file [MIT LICENSE.txt] for details.
